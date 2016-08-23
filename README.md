@@ -1,7 +1,7 @@
 React Hello World Demo
 ======================
 
-Just say hello from react.
+Get another button by `ref` and click on it
 
 ```
 npm install
